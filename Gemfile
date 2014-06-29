@@ -3,7 +3,7 @@ ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.0.5'
-gem 'mysql2'
+gem 'mysql'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
